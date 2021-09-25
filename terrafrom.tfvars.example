@@ -1,0 +1,9 @@
+cluster_name="gitops-cluster-example"
+linux_admin_password="SecurePasswordExample123"
+gcp_project_name="gitops-example-000000"
+gcp_project_region="europe-west1"
+node_locations=[
+  "europe-west1-b",
+  "europe-west1-c",
+]
+cluster_cp_location="europe-west1"
